@@ -1,0 +1,8 @@
+{
+  "status": "sucesso",
+  "tempo_sim_s": 7.236,
+  "distancia_final_m": 0.2736220359802246,
+  "colisao": false,
+  "solucao": "alunos/solucao.py",
+  "erro": null
+}
